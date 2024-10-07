@@ -1,5 +1,4 @@
-# New-Page
-One Page Portfolio
+# One Page Portfolio
 
 ![image](https://github.com/user-attachments/assets/dbfe5c3b-b34d-4809-96a3-4ce292adb154)
 
